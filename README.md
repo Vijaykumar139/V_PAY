@@ -11,6 +11,6 @@ V-PAY is a virtual payment system designed specifically for university students.
  🛠️ Technologies Used
 
 - Frontend: HTML, CSS, JavaScript
-- Backend: JavaScript 
+- Backend: PHP 
 - Database: MySQL
 - Version Control: Git & GitHub
